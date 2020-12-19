@@ -4,3 +4,7 @@
 :information_source: [A Story About My Uncle](https://store.steampowered.com/app/278360) oyunu için tarafımca hazırlanmış Türkçe çeviridir.
 
 :information_source: Oyunu resmi bir şekilde Türkçe olarak oynayabilirsiniz.
+
+## :camera: Ekran Görüntüleri
+<img src="/EkranGoruntuleri/20201219201813_1.jpg?raw=true" width="480" height="270" /><img src="/EkranGoruntuleri/20201219201915_1.jpg?raw=true" width="480" height="270" />
+<img src="/EkranGoruntuleri/20201219201930_1.jpg?raw=true" width="480" height="270" /><img src="/EkranGoruntuleri/20201219202000_1.jpg?raw=true" width="480" height="270" />
